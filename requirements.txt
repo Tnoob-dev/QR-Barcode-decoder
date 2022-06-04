@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+qrcode
+random
+pyzbar
+pillow

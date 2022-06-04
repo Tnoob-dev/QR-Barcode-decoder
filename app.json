@@ -1,0 +1,21 @@
+{
+    "name": "QR-Barcode-Decoder",
+    "Description": "El decodificador que te mata",
+    "repository": "https://github.com/Tnoob-dev/QR-Barcode-Decoder",
+    "version": "1.0",
+    "author": "Tnoob-dev",
+    "env": {
+        "API_ID": {
+            "description": "Cogelo de my.telegram.org",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Cogelo de my.telegram.org",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Cogelo en @BotFather ",
+            "value": ""
+        }
+    }
+}
