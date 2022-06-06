@@ -3,3 +3,4 @@ tgcrypto
 qrcode
 pyzbar
 pillow
+zbar
