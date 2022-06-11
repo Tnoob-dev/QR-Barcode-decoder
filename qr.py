@@ -10,9 +10,9 @@ import random
 
 bot = Client(
     "bot",
-    api_id=Creds.API_ID,
-    api_hash=Creds.API_HASH,
-    bot_token=Creds.BOT_TOKEN,
+    api_id=12845924,
+    api_hash="578d2817642f3aa3a283efaf49f4ef4e",
+    bot_token="5450080337:AAHZHXtMg1C3m1englYmwGHeWy72auydk4k",
 )
 
 # Decode QR Codes and Bar Codes
