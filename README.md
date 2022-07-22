@@ -7,8 +7,6 @@
 
   https://stackoverflow.com/questions/19644358/heroku-cannot-install-zbar
                               
-                              o
-                              
   https://stackoverflow.com/questions/26998526/heroku-python-binary-library-dependency                              
   
   
